@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:layout_marginVertical="25dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="15dp"
+    android:layout_marginRight="20dp"
+    android:background="#5B8DF1">
+
+    <TextView
+        android:id="@+id/Phone"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="60dp"
+        android:text="Phone"
+        android:textAlignment="textStart">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/PhoneDisplay"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="60dp"
+        android:text="Phone - ">
+    </TextView>
+
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="15dp"
+        android:text="Name"
+        android:textColor="@color/white">
+
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/NameDisplay"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="15dp"
+        android:text="Name - "
+        android:textColor="@color/white">
+
+    </TextView>
+    <TextView
+        android:id="@+id/Reason"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="105dp"
+        android:text="Reason"
+        android:textAlignment="textStart">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/ReasonDisplay"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="105dp"
+        android:text="Reason - ">
+    </TextView>
+
+    <TextView
+        android:id="@+id/Date"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="150dp"
+        android:text="date"
+        android:textAlignment="textStart">
+    </TextView>
+
+    <TextView
+        android:id="@+id/DateDisplay"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="150dp"
+        android:text="Date - ">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/Time"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="195dp"
+        android:text="Time"
+        android:textAlignment="textStart">
+
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/TimeDisplay"
+        android:layout_width="50dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="195dp"
+        android:text="Time - ">
+
+    </TextView>
+
+
+    <Button
+        android:id="@+id/Accept"
+        android:layout_width="105dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="140dp"
+        android:backgroundTint="#6FF14B"
+        android:text="Accept"
+        android:textAlignment="center"></Button>
+
+    <Button
+        android:id="@+id/Reject"
+        android:layout_width="105dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="180dp"
+        android:backgroundTint="#F14B4B"
+        android:text="Reject"
+        android:textAlignment="center"></Button>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868347405432",
+    "firebase_url": "https://gatepass-a45000-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gatepass-a45000",
+    "storage_bucket": "gatepass-a45000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868347405432:android:9766a470dfcac2fdd8b98d",
+        "android_client_info": {
+          "package_name": "com.aryaman.gatepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868347405432-uggk4akg9v0pkee7blii3qf3kngvvalq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aryaman.gatepass",
+            "certificate_hash": "ff1b56bb8efeea19a6737dece55071d0f1633cda"
+          }
+        },
+        {
+          "client_id": "868347405432-vc3rrpqiigdlo0mvdk3p6gat9e7rtj9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCIRtt23ao6Xo8_wY-vGdw7ycR7pQYKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868347405432-vc3rrpqiigdlo0mvdk3p6gat9e7rtj9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
